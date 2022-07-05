@@ -15,9 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
-import com.nikolas.leaflet.domain.CentroVacunacion;
-import com.nikolas.leaflet.domain.PersonaMunicipio;
-import com.nikolas.leaflet.domain.PersonaVacunada;
+import com.nikolas.leaflet.domain.*;
 import com.nikolas.leaflet.service.CentroVacunacionService;
 import com.nikolas.leaflet.service.PersonaVacunadaService;
 //import com.sun.xml.internal.ws.policy.sourcemodel.ModelNode;
@@ -35,10 +33,8 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.nikolas.leaflet.domain.LeafletMap;
 import com.nikolas.leaflet.service.LeafletMapService;
 import com.nikolas.leaflet.util.GenericResponse;
-import org.springframework.web.servlet.View;
 
 
 @Controller
@@ -194,6 +190,8 @@ public class LeafletMapController {
 	public String ShowStats(){
 		return "/map/stats" ;
 	}
+
+
 
 	@GetMapping("/download")
 	public ResponseEntity<Resource> DownloadCSV() throws IOException {

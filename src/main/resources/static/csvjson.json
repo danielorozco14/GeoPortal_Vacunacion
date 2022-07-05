@@ -1,0 +1,2098 @@
+[
+  {
+    "ID": 1,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "JUJUTLA",
+    "POB_TOTAL": 28599,
+    "CASOS_LOCALES": 177
+  },
+  {
+    "ID": 2,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "APANECA",
+    "POB_TOTAL": 8383,
+    "CASOS_LOCALES": 202
+  },
+  {
+    "ID": 3,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "CONCEPCION DE ATACO",
+    "POB_TOTAL": 12786,
+    "CASOS_LOCALES": 157
+  },
+  {
+    "ID": 4,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "SAN FRANCISCO MENENDEZ",
+    "POB_TOTAL": 42607,
+    "CASOS_LOCALES": 231
+  },
+  {
+    "ID": 5,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "TACUBA",
+    "POB_TOTAL": 29858,
+    "CASOS_LOCALES": 194
+  },
+  {
+    "ID": 6,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "TURIN",
+    "POB_TOTAL": 8997,
+    "CASOS_LOCALES": 313
+  },
+  {
+    "ID": 7,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "EL REFUGIO",
+    "POB_TOTAL": 8171,
+    "CASOS_LOCALES": 289
+  },
+  {
+    "ID": 8,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "ATIQUIZAYA",
+    "POB_TOTAL": 33587,
+    "CASOS_LOCALES": 926
+  },
+  {
+    "ID": 9,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "AHUACHAPAN",
+    "POB_TOTAL": 110511,
+    "CASOS_LOCALES": 2403
+  },
+  {
+    "ID": 10,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "SAN LORENZO",
+    "POB_TOTAL": 9194,
+    "CASOS_LOCALES": 213
+  },
+  {
+    "ID": 11,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "SAN PEDRO PUXTLA",
+    "POB_TOTAL": 7773,
+    "CASOS_LOCALES": 76
+  },
+  {
+    "ID": 12,
+    "NOM_DPTO": "AHUACHAPAN",
+    "COD_DPTO": 1,
+    "NOM_MUN": "GUAYMANGO",
+    "POB_TOTAL": 19037,
+    "CASOS_LOCALES": 175
+  },
+  {
+    "ID": 13,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "SAN ANTONIO PAJONAL",
+    "POB_TOTAL": 3279,
+    "CASOS_LOCALES": 84
+  },
+  {
+    "ID": 14,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "EL CONGO",
+    "POB_TOTAL": 24219,
+    "CASOS_LOCALES": 468
+  },
+  {
+    "ID": 15,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "METAPAN",
+    "POB_TOTAL": 59004,
+    "CASOS_LOCALES": 1392
+  },
+  {
+    "ID": 16,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "CHALCHUAPA",
+    "POB_TOTAL": 74038,
+    "CASOS_LOCALES": 2180
+  },
+  {
+    "ID": 17,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "SAN SEBASTIAN SALITRILLO",
+    "POB_TOTAL": 18566,
+    "CASOS_LOCALES": 728
+  },
+  {
+    "ID": 18,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "EL PORVENIR",
+    "POB_TOTAL": 8232,
+    "CASOS_LOCALES": 125
+  },
+  {
+    "ID": 19,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "COATEPEQUE",
+    "POB_TOTAL": 36768,
+    "CASOS_LOCALES": 493
+  },
+  {
+    "ID": 20,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "SANTA ANA",
+    "POB_TOTAL": 245421,
+    "CASOS_LOCALES": 11971
+  },
+  {
+    "ID": 21,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "CANDELARIA DE LA FRONTERA",
+    "POB_TOTAL": 22686,
+    "CASOS_LOCALES": 349
+  },
+  {
+    "ID": 22,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "TEXISTEPEQUE",
+    "POB_TOTAL": 17923,
+    "CASOS_LOCALES": 367
+  },
+  {
+    "ID": 23,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "MASAHUAT",
+    "POB_TOTAL": 3393,
+    "CASOS_LOCALES": 46
+  },
+  {
+    "ID": 24,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "SANTA ROSA GUACHIPILIN",
+    "POB_TOTAL": 4930,
+    "CASOS_LOCALES": 40
+  },
+  {
+    "ID": 25,
+    "NOM_DPTO": "SANTA ANA",
+    "COD_DPTO": 2,
+    "NOM_MUN": "SANTIAGO DE LA FRONTERA",
+    "POB_TOTAL": 5196,
+    "CASOS_LOCALES": 164
+  },
+  {
+    "ID": 26,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SAN JULIAN",
+    "POB_TOTAL": 18648,
+    "CASOS_LOCALES": 183
+  },
+  {
+    "ID": 27,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SANTO DOMINGO DE GUZMAN",
+    "POB_TOTAL": 7055,
+    "CASOS_LOCALES": 61
+  },
+  {
+    "ID": 28,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "CALUCO",
+    "POB_TOTAL": 9139,
+    "CASOS_LOCALES": 93
+  },
+  {
+    "ID": 29,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "NAHULINGO",
+    "POB_TOTAL": 10417,
+    "CASOS_LOCALES": 100
+  },
+  {
+    "ID": 30,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "ACAJUTLA",
+    "POB_TOTAL": 52359,
+    "CASOS_LOCALES": 921
+  },
+  {
+    "ID": 31,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "CUISNAHUAT",
+    "POB_TOTAL": 12676,
+    "CASOS_LOCALES": 72
+  },
+  {
+    "ID": 32,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SANTA ISABEL ISHUATAN",
+    "POB_TOTAL": 10241,
+    "CASOS_LOCALES": 81
+  },
+  {
+    "ID": 33,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SONZACATE",
+    "POB_TOTAL": 25005,
+    "CASOS_LOCALES": 674
+  },
+  {
+    "ID": 34,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "JUAYUA",
+    "POB_TOTAL": 24465,
+    "CASOS_LOCALES": 400
+  },
+  {
+    "ID": 35,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "NAHUIZALCO",
+    "POB_TOTAL": 49081,
+    "CASOS_LOCALES": 415
+  },
+  {
+    "ID": 36,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SALCOATITAN",
+    "POB_TOTAL": 5484,
+    "CASOS_LOCALES": 105
+  },
+  {
+    "ID": 37,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SANTA CATARINA MASAHUAT",
+    "POB_TOTAL": 10076,
+    "CASOS_LOCALES": 129
+  },
+  {
+    "ID": 38,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "IZALCO",
+    "POB_TOTAL": 70959,
+    "CASOS_LOCALES": 700
+  },
+  {
+    "ID": 39,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "ARMENIA",
+    "POB_TOTAL": 34912,
+    "CASOS_LOCALES": 401
+  },
+  {
+    "ID": 40,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SONSONATE",
+    "POB_TOTAL": 71541,
+    "CASOS_LOCALES": 1888
+  },
+  {
+    "ID": 41,
+    "NOM_DPTO": "SONSONATE",
+    "COD_DPTO": 3,
+    "NOM_MUN": "SAN ANTONIO DEL MONTE",
+    "POB_TOTAL": 26902,
+    "CASOS_LOCALES": 444
+  },
+  {
+    "ID": 42,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN ISIDRO LABRADOR",
+    "POB_TOTAL": 2592,
+    "CASOS_LOCALES": 18
+  },
+  {
+    "ID": 43,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SANTA RITA",
+    "POB_TOTAL": 5985,
+    "CASOS_LOCALES": 133
+  },
+  {
+    "ID": 44,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN ANTONIO DE LA CRUZ",
+    "POB_TOTAL": 1854,
+    "CASOS_LOCALES": 42
+  },
+  {
+    "ID": 45,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "NOMBRE DE JESUS",
+    "POB_TOTAL": 4484,
+    "CASOS_LOCALES": 171
+  },
+  {
+    "ID": 46,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "LAS FLORES",
+    "POB_TOTAL": 1583,
+    "CASOS_LOCALES": 17
+  },
+  {
+    "ID": 47,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "LA LAGUNA",
+    "POB_TOTAL": 3923,
+    "CASOS_LOCALES": 140
+  },
+  {
+    "ID": 48,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "NUEVA CONCEPCION",
+    "POB_TOTAL": 28625,
+    "CASOS_LOCALES": 805
+  },
+  {
+    "ID": 49,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN RAFAEL",
+    "POB_TOTAL": 4264,
+    "CASOS_LOCALES": 138
+  },
+  {
+    "ID": 50,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "EL PARAISO",
+    "POB_TOTAL": 10483,
+    "CASOS_LOCALES": 347
+  },
+  {
+    "ID": 51,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "DULCE NOMBRE DE MARIA",
+    "POB_TOTAL": 5051,
+    "CASOS_LOCALES": 174
+  },
+  {
+    "ID": 52,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "TEJUTLA",
+    "POB_TOTAL": 13608,
+    "CASOS_LOCALES": 465
+  },
+  {
+    "ID": 53,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN FRANCISCO MORAZAN",
+    "POB_TOTAL": 3919,
+    "CASOS_LOCALES": 206
+  },
+  {
+    "ID": 54,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "LA REINA",
+    "POB_TOTAL": 9525,
+    "CASOS_LOCALES": 273
+  },
+  {
+    "ID": 55,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN FERNANDO",
+    "POB_TOTAL": 2593,
+    "CASOS_LOCALES": 40
+  },
+  {
+    "ID": 56,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "CITALA",
+    "POB_TOTAL": 4164,
+    "CASOS_LOCALES": 92
+  },
+  {
+    "ID": 57,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN IGNACIO",
+    "POB_TOTAL": 8611,
+    "CASOS_LOCALES": 197
+  },
+  {
+    "ID": 58,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "LA PALMA",
+    "POB_TOTAL": 12235,
+    "CASOS_LOCALES": 329
+  },
+  {
+    "ID": 59,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "AGUA CALIENTE",
+    "POB_TOTAL": 8261,
+    "CASOS_LOCALES": 184
+  },
+  {
+    "ID": 60,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "ARCATAO",
+    "POB_TOTAL": 2946,
+    "CASOS_LOCALES": 87
+  },
+  {
+    "ID": 61,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "COMALAPA",
+    "POB_TOTAL": 2996,
+    "CASOS_LOCALES": 173
+  },
+  {
+    "ID": 62,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "EL CARRIZAL",
+    "POB_TOTAL": 2464,
+    "CASOS_LOCALES": 43
+  },
+  {
+    "ID": 63,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN LUIS DEL CARMEN",
+    "POB_TOTAL": 1173,
+    "CASOS_LOCALES": 40
+  },
+  {
+    "ID": 64,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN MIGUEL DE MERCEDES",
+    "POB_TOTAL": 2487,
+    "CASOS_LOCALES": 101
+  },
+  {
+    "ID": 65,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "POTONICO",
+    "POB_TOTAL": 1586,
+    "CASOS_LOCALES": 31
+  },
+  {
+    "ID": 66,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "CANCASQUE",
+    "POB_TOTAL": 1751,
+    "CASOS_LOCALES": 7
+  },
+  {
+    "ID": 67,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "OJOS DE AGUA",
+    "POB_TOTAL": 3667,
+    "CASOS_LOCALES": 33
+  },
+  {
+    "ID": 68,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "LAS VUELTAS",
+    "POB_TOTAL": 940,
+    "CASOS_LOCALES": 38
+  },
+  {
+    "ID": 69,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "NUEVA TRINIDAD",
+    "POB_TOTAL": 1673,
+    "CASOS_LOCALES": 113
+  },
+  {
+    "ID": 70,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "CHALATENANGO",
+    "POB_TOTAL": 29271,
+    "CASOS_LOCALES": 2118
+  },
+  {
+    "ID": 71,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "CONCEPCION QUEZALTEPEQUE",
+    "POB_TOTAL": 6457,
+    "CASOS_LOCALES": 213
+  },
+  {
+    "ID": 72,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "AZACUALPA",
+    "POB_TOTAL": 1136,
+    "CASOS_LOCALES": 90
+  },
+  {
+    "ID": 73,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN FRANCISCO LEMPA",
+    "POB_TOTAL": 862,
+    "CASOS_LOCALES": 40
+  },
+  {
+    "ID": 74,
+    "NOM_DPTO": "CHALATENANGO",
+    "COD_DPTO": 4,
+    "NOM_MUN": "SAN ANTONIO LOS RANCHOS",
+    "POB_TOTAL": 1619,
+    "CASOS_LOCALES": 82
+  },
+  {
+    "ID": 75,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SAN PABLO TACACHICO",
+    "POB_TOTAL": 20366,
+    "CASOS_LOCALES": 200
+  },
+  {
+    "ID": 76,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "LA LIBERTAD",
+    "POB_TOTAL": 35997,
+    "CASOS_LOCALES": 732
+  },
+  {
+    "ID": 77,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "JICALAPA",
+    "POB_TOTAL": 5116,
+    "CASOS_LOCALES": 34
+  },
+  {
+    "ID": 78,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "ZARAGOZA",
+    "POB_TOTAL": 22525,
+    "CASOS_LOCALES": 550
+  },
+  {
+    "ID": 79,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SAN JOSE VILLANUEVA",
+    "POB_TOTAL": 13576,
+    "CASOS_LOCALES": 592
+  },
+  {
+    "ID": 80,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "HUIZUCAR",
+    "POB_TOTAL": 14465,
+    "CASOS_LOCALES": 212
+  },
+  {
+    "ID": 81,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "TAMANIQUE",
+    "POB_TOTAL": 13544,
+    "CASOS_LOCALES": 216
+  },
+  {
+    "ID": 82,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "CHILTIUPAN",
+    "POB_TOTAL": 10897,
+    "CASOS_LOCALES": 182
+  },
+  {
+    "ID": 83,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "NUEVO CUSCATLAN",
+    "POB_TOTAL": 6897,
+    "CASOS_LOCALES": 329
+  },
+  {
+    "ID": 84,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "TEOTEPEQUE",
+    "POB_TOTAL": 12320,
+    "CASOS_LOCALES": 25
+  },
+  {
+    "ID": 85,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "COMASAGUA",
+    "POB_TOTAL": 11870,
+    "CASOS_LOCALES": 131
+  },
+  {
+    "ID": 86,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "ANTIGUO CUSCATLAN",
+    "POB_TOTAL": 33698,
+    "CASOS_LOCALES": 2079
+  },
+  {
+    "ID": 87,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "TALNIQUE",
+    "POB_TOTAL": 8254,
+    "CASOS_LOCALES": 132
+  },
+  {
+    "ID": 88,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "JAYAQUE",
+    "POB_TOTAL": 11058,
+    "CASOS_LOCALES": 120
+  },
+  {
+    "ID": 89,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "TEPECOYO",
+    "POB_TOTAL": 14322,
+    "CASOS_LOCALES": 109
+  },
+  {
+    "ID": 90,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SANTA TECLA",
+    "POB_TOTAL": 121908,
+    "CASOS_LOCALES": 8984
+  },
+  {
+    "ID": 91,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "COLON",
+    "POB_TOTAL": 96989,
+    "CASOS_LOCALES": 2884
+  },
+  {
+    "ID": 92,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SACACOYO",
+    "POB_TOTAL": 12299,
+    "CASOS_LOCALES": 152
+  },
+  {
+    "ID": 93,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "CIUDAD ARCE",
+    "POB_TOTAL": 60314,
+    "CASOS_LOCALES": 778
+  },
+  {
+    "ID": 94,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "QUEZALTEPEQUE",
+    "POB_TOTAL": 52643,
+    "CASOS_LOCALES": 1481
+  },
+  {
+    "ID": 95,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SAN MATIAS",
+    "POB_TOTAL": 7314,
+    "CASOS_LOCALES": 71
+  },
+  {
+    "ID": 96,
+    "NOM_DPTO": "LA LIBERTAD",
+    "COD_DPTO": 5,
+    "NOM_MUN": "SAN JUAN OPICO",
+    "POB_TOTAL": 74280,
+    "CASOS_LOCALES": 1289
+  },
+  {
+    "ID": 97,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "CUSCATANCINGO",
+    "POB_TOTAL": 66400,
+    "CASOS_LOCALES": 1620
+  },
+  {
+    "ID": 98,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SOYAPANGO",
+    "POB_TOTAL": 241403,
+    "CASOS_LOCALES": 11026
+  },
+  {
+    "ID": 99,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "DELGADO",
+    "POB_TOTAL": 120200,
+    "CASOS_LOCALES": 2335
+  },
+  {
+    "ID": 100,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "MEJICANOS",
+    "POB_TOTAL": 140751,
+    "CASOS_LOCALES": 6424
+  },
+  {
+    "ID": 101,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "NEJAPA",
+    "POB_TOTAL": 29458,
+    "CASOS_LOCALES": 837
+  },
+  {
+    "ID": 102,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "GUAZAPA",
+    "POB_TOTAL": 22906,
+    "CASOS_LOCALES": 492
+  },
+  {
+    "ID": 103,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "AGUILARES",
+    "POB_TOTAL": 21267,
+    "CASOS_LOCALES": 490
+  },
+  {
+    "ID": 104,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "EL PAISNAL",
+    "POB_TOTAL": 14551,
+    "CASOS_LOCALES": 156
+  },
+  {
+    "ID": 105,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "AYUTUXTEPEQUE",
+    "POB_TOTAL": 34710,
+    "CASOS_LOCALES": 1340
+  },
+  {
+    "ID": 106,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SAN SALVADOR",
+    "POB_TOTAL": 316090,
+    "CASOS_LOCALES": 19651
+  },
+  {
+    "ID": 107,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SAN MARTIN",
+    "POB_TOTAL": 72758,
+    "CASOS_LOCALES": 1461
+  },
+  {
+    "ID": 108,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "TONACATEPEQUE",
+    "POB_TOTAL": 90896,
+    "CASOS_LOCALES": 1298
+  },
+  {
+    "ID": 109,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "APOPA",
+    "POB_TOTAL": 131286,
+    "CASOS_LOCALES": 2876
+  },
+  {
+    "ID": 110,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "ROSARIO DE MORA",
+    "POB_TOTAL": 11377,
+    "CASOS_LOCALES": 137
+  },
+  {
+    "ID": 111,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "PANCHIMALCO",
+    "POB_TOTAL": 41260,
+    "CASOS_LOCALES": 691
+  },
+  {
+    "ID": 112,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SAN MARCOS",
+    "POB_TOTAL": 63209,
+    "CASOS_LOCALES": 1836
+  },
+  {
+    "ID": 113,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SANTO TOMAS",
+    "POB_TOTAL": 25344,
+    "CASOS_LOCALES": 784
+  },
+  {
+    "ID": 114,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "SANTIAGO TEXACUANGOS",
+    "POB_TOTAL": 19428,
+    "CASOS_LOCALES": 319
+  },
+  {
+    "ID": 115,
+    "NOM_DPTO": "SAN SALVADOR",
+    "COD_DPTO": 6,
+    "NOM_MUN": "ILOPANGO",
+    "POB_TOTAL": 103862,
+    "CASOS_LOCALES": 3053
+  },
+  {
+    "ID": 116,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "ORATORIO DE CONCEPCION",
+    "POB_TOTAL": 3578,
+    "CASOS_LOCALES": 17
+  },
+  {
+    "ID": 117,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "TENANCINGO",
+    "POB_TOTAL": 6782,
+    "CASOS_LOCALES": 173
+  },
+  {
+    "ID": 118,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SUCHITOTO",
+    "POB_TOTAL": 24786,
+    "CASOS_LOCALES": 575
+  },
+  {
+    "ID": 119,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN RAMON",
+    "POB_TOTAL": 6292,
+    "CASOS_LOCALES": 73
+  },
+  {
+    "ID": 120,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN CRISTOBAL",
+    "POB_TOTAL": 8316,
+    "CASOS_LOCALES": 71
+  },
+  {
+    "ID": 121,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "CANDELARIA",
+    "POB_TOTAL": 10090,
+    "CASOS_LOCALES": 134
+  },
+  {
+    "ID": 122,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "EL CARMEN",
+    "POB_TOTAL": 13345,
+    "CASOS_LOCALES": 176
+  },
+  {
+    "ID": 123,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "COJUTEPEQUE",
+    "POB_TOTAL": 50315,
+    "CASOS_LOCALES": 1365
+  },
+  {
+    "ID": 124,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN RAFAEL CEDROS",
+    "POB_TOTAL": 17069,
+    "CASOS_LOCALES": 289
+  },
+  {
+    "ID": 125,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "EL ROSARIO",
+    "POB_TOTAL": 4220,
+    "CASOS_LOCALES": 10
+  },
+  {
+    "ID": 126,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SANTA CRUZ ANALQUITO",
+    "POB_TOTAL": 2585,
+    "CASOS_LOCALES": 22
+  },
+  {
+    "ID": 127,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "MONTE SAN JUAN",
+    "POB_TOTAL": 10224,
+    "CASOS_LOCALES": 272
+  },
+  {
+    "ID": 128,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SANTA CRUZ MICHAPA",
+    "POB_TOTAL": 11790,
+    "CASOS_LOCALES": 178
+  },
+  {
+    "ID": 129,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN PEDRO PERULAPAN",
+    "POB_TOTAL": 44730,
+    "CASOS_LOCALES": 576
+  },
+  {
+    "ID": 130,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN BARTOLOME PERULAPIA",
+    "POB_TOTAL": 8058,
+    "CASOS_LOCALES": 123
+  },
+  {
+    "ID": 131,
+    "NOM_DPTO": "CUSCATLAN",
+    "COD_DPTO": 7,
+    "NOM_MUN": "SAN JOSE GUAYABAL",
+    "POB_TOTAL": 9300,
+    "CASOS_LOCALES": 177
+  },
+  {
+    "ID": 132,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN PEDRO NONUALCO",
+    "POB_TOTAL": 9252,
+    "CASOS_LOCALES": 425
+  },
+  {
+    "ID": 133,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "EL ROSARIO",
+    "POB_TOTAL": 16784,
+    "CASOS_LOCALES": 173
+  },
+  {
+    "ID": 134,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN JUAN TALPA",
+    "POB_TOTAL": 7707,
+    "CASOS_LOCALES": 153
+  },
+  {
+    "ID": 135,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "OLOCUILTA",
+    "POB_TOTAL": 29529,
+    "CASOS_LOCALES": 654
+  },
+  {
+    "ID": 136,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN LUIS TALPA",
+    "POB_TOTAL": 21675,
+    "CASOS_LOCALES": 420
+  },
+  {
+    "ID": 137,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "PARAISO DE OSORIO",
+    "POB_TOTAL": 2727,
+    "CASOS_LOCALES": 24
+  },
+  {
+    "ID": 138,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN MIGUEL TEPEZONTES",
+    "POB_TOTAL": 5084,
+    "CASOS_LOCALES": 67
+  },
+  {
+    "ID": 139,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "JERUSALEN",
+    "POB_TOTAL": 2570,
+    "CASOS_LOCALES": 62
+  },
+  {
+    "ID": 140,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "MERCEDES LA CEIBA",
+    "POB_TOTAL": 637,
+    "CASOS_LOCALES": 14
+  },
+  {
+    "ID": 141,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN EMIGDIO",
+    "POB_TOTAL": 2818,
+    "CASOS_LOCALES": 25
+  },
+  {
+    "ID": 142,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN ANTONIO MASAHUAT",
+    "POB_TOTAL": 4258,
+    "CASOS_LOCALES": 110
+  },
+  {
+    "ID": 143,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "TAPALHUACA",
+    "POB_TOTAL": 3809,
+    "CASOS_LOCALES": 48
+  },
+  {
+    "ID": 144,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "CUYULTITAN",
+    "POB_TOTAL": 5590,
+    "CASOS_LOCALES": 190
+  },
+  {
+    "ID": 145,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN FRANCISCO CHINAMECA",
+    "POB_TOTAL": 7387,
+    "CASOS_LOCALES": 75
+  },
+  {
+    "ID": 146,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN JUAN TEPEZONTES",
+    "POB_TOTAL": 3630,
+    "CASOS_LOCALES": 50
+  },
+  {
+    "ID": 147,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SANTIAGO NONUALCO",
+    "POB_TOTAL": 39887,
+    "CASOS_LOCALES": 488
+  },
+  {
+    "ID": 148,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN PEDRO MASAHUAT",
+    "POB_TOTAL": 25446,
+    "CASOS_LOCALES": 425
+  },
+  {
+    "ID": 149,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN JUAN NONUALCO",
+    "POB_TOTAL": 17256,
+    "CASOS_LOCALES": 310
+  },
+  {
+    "ID": 150,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "ZACATECOLUCA",
+    "POB_TOTAL": 65826,
+    "CASOS_LOCALES": 1431
+  },
+  {
+    "ID": 151,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN RAFAEL OBRAJUELO",
+    "POB_TOTAL": 9820,
+    "CASOS_LOCALES": 275
+  },
+  {
+    "ID": 152,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SAN LUIS LA HERRADURA",
+    "POB_TOTAL": 20405,
+    "CASOS_LOCALES": 181
+  },
+  {
+    "ID": 153,
+    "NOM_DPTO": "LA PAZ",
+    "COD_DPTO": 8,
+    "NOM_MUN": "SANTA MARIA OSTUMA",
+    "POB_TOTAL": 5990,
+    "CASOS_LOCALES": 116
+  },
+  {
+    "ID": 154,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "JUTIAPA",
+    "POB_TOTAL": 6584,
+    "CASOS_LOCALES": 44
+  },
+  {
+    "ID": 155,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "SAN ISIDRO",
+    "POB_TOTAL": 7796,
+    "CASOS_LOCALES": 102
+  },
+  {
+    "ID": 156,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "ILOBASCO",
+    "POB_TOTAL": 61510,
+    "CASOS_LOCALES": 1093
+  },
+  {
+    "ID": 157,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "DOLORES",
+    "POB_TOTAL": 6347,
+    "CASOS_LOCALES": 38
+  },
+  {
+    "ID": 158,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "CINQUERA",
+    "POB_TOTAL": 1467,
+    "CASOS_LOCALES": 51
+  },
+  {
+    "ID": 159,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "SENSUNTEPEQUE",
+    "POB_TOTAL": 40332,
+    "CASOS_LOCALES": 919
+  },
+  {
+    "ID": 160,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "VICTORIA",
+    "POB_TOTAL": 12626,
+    "CASOS_LOCALES": 131
+  },
+  {
+    "ID": 161,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "GUACOTECTI",
+    "POB_TOTAL": 5550,
+    "CASOS_LOCALES": 95
+  },
+  {
+    "ID": 162,
+    "NOM_DPTO": "CABANAS",
+    "COD_DPTO": 9,
+    "NOM_MUN": "TEJUTEPEQUE",
+    "POB_TOTAL": 7114,
+    "CASOS_LOCALES": 116
+  },
+  {
+    "ID": 163,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "TECOLUCA",
+    "POB_TOTAL": 23893,
+    "CASOS_LOCALES": 213
+  },
+  {
+    "ID": 164,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN ILDEFONSO",
+    "POB_TOTAL": 7799,
+    "CASOS_LOCALES": 44
+  },
+  {
+    "ID": 165,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SANTO DOMINGO",
+    "POB_TOTAL": 6445,
+    "CASOS_LOCALES": 174
+  },
+  {
+    "ID": 166,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN VICENTE",
+    "POB_TOTAL": 53213,
+    "CASOS_LOCALES": 1465
+  },
+  {
+    "ID": 167,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN LORENZO",
+    "POB_TOTAL": 6055,
+    "CASOS_LOCALES": 7
+  },
+  {
+    "ID": 168,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SANTA CLARA",
+    "POB_TOTAL": 5349,
+    "CASOS_LOCALES": 44
+  },
+  {
+    "ID": 169,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN ESTEBAN CATARINA",
+    "POB_TOTAL": 5661,
+    "CASOS_LOCALES": 67
+  },
+  {
+    "ID": 170,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN SEBASTIAN",
+    "POB_TOTAL": 14411,
+    "CASOS_LOCALES": 211
+  },
+  {
+    "ID": 171,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "APASTEPEQUE",
+    "POB_TOTAL": 18342,
+    "CASOS_LOCALES": 366
+  },
+  {
+    "ID": 172,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "TEPETITAN",
+    "POB_TOTAL": 3631,
+    "CASOS_LOCALES": 64
+  },
+  {
+    "ID": 173,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "SAN CAYETANO ISTEPEQUE",
+    "POB_TOTAL": 5103,
+    "CASOS_LOCALES": 86
+  },
+  {
+    "ID": 174,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "VERAPAZ",
+    "POB_TOTAL": 6257,
+    "CASOS_LOCALES": 120
+  },
+  {
+    "ID": 175,
+    "NOM_DPTO": "SAN VICENTE",
+    "COD_DPTO": 10,
+    "NOM_MUN": "GUADALUPE",
+    "POB_TOTAL": 5486,
+    "CASOS_LOCALES": 92
+  },
+  {
+    "ID": 176,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "JUCUAPA",
+    "POB_TOTAL": 18442,
+    "CASOS_LOCALES": 483
+  },
+  {
+    "ID": 177,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SANTA ELENA",
+    "POB_TOTAL": 17342,
+    "CASOS_LOCALES": 379
+  },
+  {
+    "ID": 178,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SAN FRANCISCO JAVIER",
+    "POB_TOTAL": 5409,
+    "CASOS_LOCALES": 45
+  },
+  {
+    "ID": 179,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "TECAPAN",
+    "POB_TOTAL": 7697,
+    "CASOS_LOCALES": 181
+  },
+  {
+    "ID": 180,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "CALIFORNIA",
+    "POB_TOTAL": 2628,
+    "CASOS_LOCALES": 49
+  },
+  {
+    "ID": 181,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SAN DIONISIO",
+    "POB_TOTAL": 4945,
+    "CASOS_LOCALES": 31
+  },
+  {
+    "ID": 182,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "PUERTO EL TRIUNFO",
+    "POB_TOTAL": 16584,
+    "CASOS_LOCALES": 161
+  },
+  {
+    "ID": 183,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "JUCUARAN",
+    "POB_TOTAL": 13424,
+    "CASOS_LOCALES": 117
+  },
+  {
+    "ID": 184,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "JIQUILISCO",
+    "POB_TOTAL": 47784,
+    "CASOS_LOCALES": 606
+  },
+  {
+    "ID": 185,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "OZATLAN",
+    "POB_TOTAL": 12443,
+    "CASOS_LOCALES": 100
+  },
+  {
+    "ID": 186,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SANTA MARIA",
+    "POB_TOTAL": 10731,
+    "CASOS_LOCALES": 716
+  },
+  {
+    "ID": 187,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "EREGUAYQUIN",
+    "POB_TOTAL": 6119,
+    "CASOS_LOCALES": 115
+  },
+  {
+    "ID": 188,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "USULUTAN",
+    "POB_TOTAL": 73064,
+    "CASOS_LOCALES": 1957
+  },
+  {
+    "ID": 189,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "CONCEPCION BATRES",
+    "POB_TOTAL": 12197,
+    "CASOS_LOCALES": 142
+  },
+  {
+    "ID": 190,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SANTIAGO DE MARIA",
+    "POB_TOTAL": 18201,
+    "CASOS_LOCALES": 716
+  },
+  {
+    "ID": 191,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SAN BUENA VENTURA",
+    "POB_TOTAL": 4726,
+    "CASOS_LOCALES": 128
+  },
+  {
+    "ID": 192,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "EL TRIUNFO",
+    "POB_TOTAL": 6924,
+    "CASOS_LOCALES": 179
+  },
+  {
+    "ID": 193,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "NUEVA GRANADA",
+    "POB_TOTAL": 7451,
+    "CASOS_LOCALES": 80
+  },
+  {
+    "ID": 194,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "BERLIN",
+    "POB_TOTAL": 17787,
+    "CASOS_LOCALES": 244
+  },
+  {
+    "ID": 195,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "SAN AGUSTIN",
+    "POB_TOTAL": 6518,
+    "CASOS_LOCALES": 42
+  },
+  {
+    "ID": 196,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "ESTANZUELAS",
+    "POB_TOTAL": 9015,
+    "CASOS_LOCALES": 82
+  },
+  {
+    "ID": 197,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "MERCEDES UMANA",
+    "POB_TOTAL": 13092,
+    "CASOS_LOCALES": 276
+  },
+  {
+    "ID": 198,
+    "NOM_DPTO": "USULUTAN",
+    "COD_DPTO": 11,
+    "NOM_MUN": "ALEGRIA",
+    "POB_TOTAL": 11712,
+    "CASOS_LOCALES": 191
+  },
+  {
+    "ID": 199,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "EL TRANSITO",
+    "POB_TOTAL": 18363,
+    "CASOS_LOCALES": 316
+  },
+  {
+    "ID": 200,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "COMACARAN",
+    "POB_TOTAL": 3199,
+    "CASOS_LOCALES": 61
+  },
+  {
+    "ID": 201,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN RAFAEL ORIENTE",
+    "POB_TOTAL": 13290,
+    "CASOS_LOCALES": 166
+  },
+  {
+    "ID": 202,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SESORI",
+    "POB_TOTAL": 10705,
+    "CASOS_LOCALES": 206
+  },
+  {
+    "ID": 203,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN JORGE",
+    "POB_TOTAL": 9115,
+    "CASOS_LOCALES": 92
+  },
+  {
+    "ID": 204,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "CHINAMECA",
+    "POB_TOTAL": 22311,
+    "CASOS_LOCALES": 611
+  },
+  {
+    "ID": 205,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "NUEVA GUADALUPE",
+    "POB_TOTAL": 8905,
+    "CASOS_LOCALES": 479
+  },
+  {
+    "ID": 206,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "MONCAGUA",
+    "POB_TOTAL": 22659,
+    "CASOS_LOCALES": 376
+  },
+  {
+    "ID": 207,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "LOLOTIQUE",
+    "POB_TOTAL": 14916,
+    "CASOS_LOCALES": 228
+  },
+  {
+    "ID": 208,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "CHAPELTIQUE",
+    "POB_TOTAL": 10728,
+    "CASOS_LOCALES": 211
+  },
+  {
+    "ID": 209,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "QUELEPA",
+    "POB_TOTAL": 4049,
+    "CASOS_LOCALES": 168
+  },
+  {
+    "ID": 210,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN MIGUEL",
+    "POB_TOTAL": 218410,
+    "CASOS_LOCALES": 12907
+  },
+  {
+    "ID": 211,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "CIUDAD BARRIOS",
+    "POB_TOTAL": 24817,
+    "CASOS_LOCALES": 517
+  },
+  {
+    "ID": 212,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN ANTONIO",
+    "POB_TOTAL": 5304,
+    "CASOS_LOCALES": 61
+  },
+  {
+    "ID": 213,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "CAROLINA",
+    "POB_TOTAL": 8240,
+    "CASOS_LOCALES": 93
+  },
+  {
+    "ID": 214,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN LUIS DE LA REINA",
+    "POB_TOTAL": 5637,
+    "CASOS_LOCALES": 122
+  },
+  {
+    "ID": 215,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "ULUAZAPA",
+    "POB_TOTAL": 3351,
+    "CASOS_LOCALES": 43
+  },
+  {
+    "ID": 216,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "SAN GERARDO",
+    "POB_TOTAL": 5986,
+    "CASOS_LOCALES": 40
+  },
+  {
+    "ID": 217,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "NUEVO EDEN DE SAN JUAN",
+    "POB_TOTAL": 4034,
+    "CASOS_LOCALES": 27
+  },
+  {
+    "ID": 218,
+    "NOM_DPTO": "SAN MIGUEL",
+    "COD_DPTO": 12,
+    "NOM_MUN": "CHIRILAGUA",
+    "POB_TOTAL": 19984,
+    "CASOS_LOCALES": 140
+  },
+  {
+    "ID": 219,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SAN ISIDRO",
+    "POB_TOTAL": 2804,
+    "CASOS_LOCALES": 99
+  },
+  {
+    "ID": 220,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SAN FERNANDO",
+    "POB_TOTAL": 1708,
+    "CASOS_LOCALES": 1
+  },
+  {
+    "ID": 221,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "JOCOAITIQUE",
+    "POB_TOTAL": 2877,
+    "CASOS_LOCALES": 75
+  },
+  {
+    "ID": 222,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "CACAOPERA",
+    "POB_TOTAL": 10943,
+    "CASOS_LOCALES": 137
+  },
+  {
+    "ID": 223,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SOCIEDAD",
+    "POB_TOTAL": 11406,
+    "CASOS_LOCALES": 74
+  },
+  {
+    "ID": 224,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "TOROLA",
+    "POB_TOTAL": 3042,
+    "CASOS_LOCALES": 20
+  },
+  {
+    "ID": 225,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "EL ROSARIO",
+    "POB_TOTAL": 1339,
+    "CASOS_LOCALES": 184
+  },
+  {
+    "ID": 226,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "MEANGUERA",
+    "POB_TOTAL": 7818,
+    "CASOS_LOCALES": 96
+  },
+  {
+    "ID": 227,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "JOATECA",
+    "POB_TOTAL": 4210,
+    "CASOS_LOCALES": 35
+  },
+  {
+    "ID": 228,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SAN SIMON",
+    "POB_TOTAL": 10102,
+    "CASOS_LOCALES": 133
+  },
+  {
+    "ID": 229,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "GUALOCOCTI",
+    "POB_TOTAL": 3650,
+    "CASOS_LOCALES": 30
+  },
+  {
+    "ID": 230,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "DELICIAS DE CONCEPCION",
+    "POB_TOTAL": 5076,
+    "CASOS_LOCALES": 116
+  },
+  {
+    "ID": 231,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "YOLOAIQUIN",
+    "POB_TOTAL": 3613,
+    "CASOS_LOCALES": 54
+  },
+  {
+    "ID": 232,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "GUATAJIAGUA",
+    "POB_TOTAL": 11721,
+    "CASOS_LOCALES": 111
+  },
+  {
+    "ID": 233,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "OSICALA",
+    "POB_TOTAL": 8909,
+    "CASOS_LOCALES": 137
+  },
+  {
+    "ID": 234,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "CHILANGA",
+    "POB_TOTAL": 9700,
+    "CASOS_LOCALES": 80
+  },
+  {
+    "ID": 235,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "LOLOTIQUILLO",
+    "POB_TOTAL": 4915,
+    "CASOS_LOCALES": 31
+  },
+  {
+    "ID": 236,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "CORINTO",
+    "POB_TOTAL": 15410,
+    "CASOS_LOCALES": 190
+  },
+  {
+    "ID": 237,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "JOCORO",
+    "POB_TOTAL": 10060,
+    "CASOS_LOCALES": 467
+  },
+  {
+    "ID": 238,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "EL DIVISADERO",
+    "POB_TOTAL": 7617,
+    "CASOS_LOCALES": 211
+  },
+  {
+    "ID": 239,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SAN CARLOS",
+    "POB_TOTAL": 4172,
+    "CASOS_LOCALES": 74
+  },
+  {
+    "ID": 240,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "YAMABAL",
+    "POB_TOTAL": 4346,
+    "CASOS_LOCALES": 54
+  },
+  {
+    "ID": 241,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SENSEMBRA",
+    "POB_TOTAL": 2940,
+    "CASOS_LOCALES": 27
+  },
+  {
+    "ID": 242,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "SAN FRANCISCO GOTERA",
+    "POB_TOTAL": 21049,
+    "CASOS_LOCALES": 1049
+  },
+  {
+    "ID": 243,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "PERQUIN",
+    "POB_TOTAL": 3158,
+    "CASOS_LOCALES": 69
+  },
+  {
+    "ID": 244,
+    "NOM_DPTO": "MORAZAN",
+    "COD_DPTO": 13,
+    "NOM_MUN": "ARAMBALA",
+    "POB_TOTAL": 1821,
+    "CASOS_LOCALES": 41
+  },
+  {
+    "ID": 245,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "POLOROS",
+    "POB_TOTAL": 9701,
+    "CASOS_LOCALES": 82
+  },
+  {
+    "ID": 246,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "LISLIQUE",
+    "POB_TOTAL": 13385,
+    "CASOS_LOCALES": 134
+  },
+  {
+    "ID": 247,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "NUEVA ESPARTA",
+    "POB_TOTAL": 9637,
+    "CASOS_LOCALES": 126
+  },
+  {
+    "ID": 248,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "LA UNION",
+    "POB_TOTAL": 34045,
+    "CASOS_LOCALES": 1227
+  },
+  {
+    "ID": 249,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "EL CARMEN",
+    "POB_TOTAL": 12324,
+    "CASOS_LOCALES": 141
+  },
+  {
+    "ID": 250,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "INTIPUCA",
+    "POB_TOTAL": 7567,
+    "CASOS_LOCALES": 81
+  },
+  {
+    "ID": 251,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "SAN ALEJO",
+    "POB_TOTAL": 17598,
+    "CASOS_LOCALES": 237
+  },
+  {
+    "ID": 252,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "CONCHAGUA",
+    "POB_TOTAL": 37362,
+    "CASOS_LOCALES": 521
+  },
+  {
+    "ID": 253,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "ANAMOROS",
+    "POB_TOTAL": 14551,
+    "CASOS_LOCALES": 267
+  },
+  {
+    "ID": 254,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "EL SAUCE",
+    "POB_TOTAL": 6546,
+    "CASOS_LOCALES": 83
+  },
+  {
+    "ID": 255,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "SANTA ROSA DE LIMA",
+    "POB_TOTAL": 27693,
+    "CASOS_LOCALES": 942
+  },
+  {
+    "ID": 256,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "YAYANTIQUE",
+    "POB_TOTAL": 6871,
+    "CASOS_LOCALES": 65
+  },
+  {
+    "ID": 257,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "MEANGUERA DEL GOLFO",
+    "POB_TOTAL": 2398,
+    "CASOS_LOCALES": 31
+  },
+  {
+    "ID": 258,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "SAN JOSE",
+    "POB_TOTAL": 2971,
+    "CASOS_LOCALES": 46
+  },
+  {
+    "ID": 259,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "BOLIVAR",
+    "POB_TOTAL": 4215,
+    "CASOS_LOCALES": 39
+  },
+  {
+    "ID": 260,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "YUCUAIQUIN",
+    "POB_TOTAL": 6799,
+    "CASOS_LOCALES": 36
+  },
+  {
+    "ID": 261,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "CONCEPCION DE ORIENTE",
+    "POB_TOTAL": 8179,
+    "CASOS_LOCALES": 69
+  },
+  {
+    "ID": 262,
+    "NOM_DPTO": "LA UNION",
+    "COD_DPTO": 14,
+    "NOM_MUN": "PASAQUINA",
+    "POB_TOTAL": 16375,
+    "CASOS_LOCALES": 213
+  }
+]

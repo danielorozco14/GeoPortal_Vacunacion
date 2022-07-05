@@ -180,20 +180,120 @@
 
     <!--BAR CHART-->
     <script>
-        const ctx = document.getElementById('barChart').getContext('2d');
-        const myChart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        //AJAX
+        $.ajax({
+            url: 'http://localhost:8085/data/json',
+            success: function (data, status, xhr) {
+               var s = data;
+            },
+            error: function (xhr, status, error) {
+                console.error(xhr);
+            }
+        }).done(function (data){
+            console.log(data);
+            var casosAhuachapan = data.filter(function (index) {
+                if (index.NOM_DPTO === 'AHUACHAPAN'){
+                    return index.CASOS_LOCALES;
+                }
+            });
+            console.log(casosAhuachapan);
+            /*var casosSantaAna = data.map(function (index) {
+                if (index.NOM_DPTO === 'SANTA ANA'){
+                    casosSantaAna+=index.CASOS_LOCALES;
+                }
+            });
+            var casosSonsonate = data.map(function (index) {
+                if (index.NOM_DPTO === 'SONSONATE'){
+                    casosSonsonate+=index.CASOS_LOCALES;
+                }
+            });
+            var casosChalatenango = data.map(function (index) {
+                if (index.NOM_DPTO === 'CHALATENANGO'){
+                    casosChalatenango+=index.CASOS_LOCALES;
+                }
+            });
+
+            var casosLaLibertad = data.map(function (index) {
+                if (index.NOM_DPTO === 'LA LIBERTAD'){
+                    casosLaLibertad+=index.CASOS_LOCALES;
+                }
+            });
+
+            var casosSanSalvador = data.map(function (index) {
+                if (index.NOM_DPTO === 'SAN SALVADOR'){
+                    casosSanSalvador+=index.CASOS_LOCALES;
+                }
+            });
+
+            var casosCuscatlan = data.map(function (index) {
+                if (index.NOM_DPTO === 'CUSCATLAN'){
+                    casosCuscatlan += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosLaPaz = data.map(function (index) {
+                if (index.NOM_DPTO === 'LA PAZ'){
+                    casosLaPaz += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosCabanas = data.map(function (index) {
+                if (index.NOM_DPTO === 'CABANAS'){
+                    casosCabanas += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosSanVicente = data.map(function (index) {
+                if (index.NOM_DPTO === 'SAN VICENTE'){
+                    casosSanVicente += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosUsulutan = data.map(function (index) {
+                if (index.NOM_DPTO === 'USULUTAN'){
+                    casosUsulutan += index.CASOS_LOCALES;
+                }
+            });
+            var casosSanMiguel = data.map(function (index) {
+                if (index.NOM_DPTO === 'SAN MIGUEL'){
+                    casosSanMiguel += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosMorazan = data.map(function (index) {
+                if (index.NOM_DPTO === 'MORAZAN'){
+                    casosMorazan += index.CASOS_LOCALES;
+                }
+            });
+
+            var casosLaUnion = data.map(function (index) {
+                if (index.NOM_DPTO === 'LA UNION'){
+                    casosLaUnion += index.CASOS_LOCALES;
+                }
+            });
+            const ctx = document.getElementById('barChart').getContext('2d');
+            const myChart = new Chart(ctx, {
+                type: 'bar',
+                labels:  ['Ahuachapan', 'Santa Ana', 'Sonsonate', 'Chalatenango', 'La Libertad', 'San Salvador', 'Cuscatlan', 'La Paz', 'Cabanas', 'San Vicente', 'Usulutan', 'San Miguel','Morazan', 'La Union'],
                 datasets: [{
-                    label: '# of Votes',
-                    data: [12, 19, 3, 5, 2, 3],
+                    label: 'Contagiados por Departamento',
+                    data: [casosAhuachapan,casosSantaAna, casosSonsonate,
+                        casosChalatenango, casosLaLibertad, casosSanSalvador, casosCuscatlan, casosLaPaz,
+                        casosCabanas, casosSanVicente,casosUsulutan,casosSanMiguel, casosMorazan, casosLaUnion],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)',
                         'rgba(255, 206, 86, 0.2)',
                         'rgba(75, 192, 192, 0.2)',
                         'rgba(153, 102, 255, 0.2)',
+                        'rgba(13,164,201,0.2)',
+                        'rgba(18,206,121,0.2)',
+                        'rgba(196,75,30,0.2)',
+                        'rgba(232,36,112,0.2)',
+                        'rgba(243,205,12,0.2)',
+                        'rgba(114,43,232,0.2)',
+                        'rgba(9,56,238,0.2)',
+                        'rgba(243,72,9,0.2)',
                         'rgba(255, 159, 64, 0.2)'
                     ],
                     borderColor: [
@@ -202,21 +302,33 @@
                         'rgba(255, 206, 86, 1)',
                         'rgba(75, 192, 192, 1)',
                         'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(153, 102, 255, 1)',
                         'rgba(255, 159, 64, 1)'
                     ],
                     borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                },
-                responsive:true,
-                maintainAspectRatio:true
-            }
+                }],
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    },
+                    responsive:true,
+                    maintainAspectRatio:true
+                }
+            });*/
         });
+
+
+
+
     </script>
 
     <!--DONUT CHART-->
@@ -225,10 +337,10 @@
         const proportionsChart = new Chart(donut, {
             type: 'doughnut',
             data: {
-                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+                labels: ['Red', 'Blue', 'Yellow'],
                 datasets: [{
                     label: '# of Votes',
-                    data: [12, 19, 3, 5, 2, 3],
+                    data: [12, 19, 3],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)',
