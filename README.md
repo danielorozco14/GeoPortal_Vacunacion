@@ -9,10 +9,10 @@ Aplicación web que muestra mapas donde se localizacon los centros de vacunació
 * [Bootstrap](https://getbootstrap.com/) - HTML, CSS y JavaScript para desarrollar proyectos móviles con capacidad de respuesta en la web.
 
 ## Colaboradores 🛠️:
-<a href="https://github.com/danielorozco14/"><img src="https://avatars.githubusercontent.com/u/38091075?v=4" width="100px" height="100px" style="max-width:100%;"></a>
-<a href="https://github.com/narommm/"><img src="https://avatars.githubusercontent.com/u/37201452?v=4" width="100px" height="100px" style="max-width:100%;"></a>
-<a href="https://github.com/AlxMancia/"><img src="https://avatars.githubusercontent.com/u/29487743?v=4" width="100px" height="100px" style="max-width:100%;"></a>
-<a href="https://github.com/MoisesRosales/"><img src="https://avatars.githubusercontent.com/u/37203008?v=4" width="100px" height="100px" style="max-width:100%;"></a>
+<a href="https://github.com/danielorozco14/"><img src="https://avatars.githubusercontent.com/u/37311558?v=4" width="100px" height="100px" style="max-width:100%;"></a>
+<a href="https://github.com/narommm/"><img src="https://avatars.githubusercontent.com/u/37163754?v=4" width="100px" height="100px" style="max-width:100%;"></a>
+<a href="https://github.com/AlxMancia/"><img src="https://avatars.githubusercontent.com/u/73662922?v=4" width="100px" height="100px" style="max-width:100%;"></a>
+<a href="https://github.com/MoisesRosales/"><img src="https://avatars.githubusercontent.com/u/45109465?v=4" width="100px" height="100px" style="max-width:100%;"></a>
 
 ## Licencias 📄:
 Se tomó como proyecto base el repositorio https://github.com/nmendozaricaldi/Spring-Boot-Leaflet , el cual no posee ninguna licencia; sin embargo, se estimó que este sigue las reglas y requerimientos apropiados para el proyecto, asimismo se considera utilizar la licencia [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) para el desarrollo
