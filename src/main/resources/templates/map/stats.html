@@ -23,7 +23,7 @@
             box-shadow: 5px 5px 5px #888;
         }
         .BarChartBox{
-            width: 400px;
+            width: 700px;
         }
         .DonutChartBox{
             width: 400px;
@@ -180,8 +180,12 @@
 
     <!--BAR CHART-->
     <script>
+        //labels:  ['Ahuachapan', 'Santa Ana', 'Sonsonate', 'Chalatenango', 'La Libertad', 'San Salvador', 'Cuscatlan', 'La Paz', 'Cabanas','San Vicente', 'Usulutan', 'San Miguel','Morazan', 'La Union'],
+        //data: [5356, 18407, 6667, 6980, 21282, 56826, 4231, 5396, 2589, 2953, 6486, 16864, 3595, 4340],
+
+
         //AJAX
-        $.ajax({
+        /*$.ajax({
             url: 'http://localhost:8085/data/json',
             success: function (data, status, xhr) {
                var s = data;
@@ -270,30 +274,24 @@
                 if (index.NOM_DPTO === 'LA UNION'){
                     casosLaUnion += index.CASOS_LOCALES;
                 }
-            });
-            const ctx = document.getElementById('barChart').getContext('2d');
-            const myChart = new Chart(ctx, {
-                type: 'bar',
-                labels:  ['Ahuachapan', 'Santa Ana', 'Sonsonate', 'Chalatenango', 'La Libertad', 'San Salvador', 'Cuscatlan', 'La Paz', 'Cabanas', 'San Vicente', 'Usulutan', 'San Miguel','Morazan', 'La Union'],
+            });*/
+
+
+
+        const ctx = document.getElementById('barChart').getContext('2d');
+        const barChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels:  ['Ahuachapan', 'Santa Ana', 'Sonsonate', 'Chalatenango', 'La Libertad', 'San Salvador', 'Cuscatlan', 'La Paz', 'Cabanas','San Vicente', 'Usulutan', 'San Miguel','Morazan', 'La Union'],
                 datasets: [{
-                    label: 'Contagiados por Departamento',
-                    data: [casosAhuachapan,casosSantaAna, casosSonsonate,
-                        casosChalatenango, casosLaLibertad, casosSanSalvador, casosCuscatlan, casosLaPaz,
-                        casosCabanas, casosSanVicente,casosUsulutan,casosSanMiguel, casosMorazan, casosLaUnion],
+                    label: '# de Contagiados',
+                    data: [5356, 18407, 6667, 6980, 21282, 56826, 4231, 5396, 2589, 2953, 6486, 16864, 3595, 4340],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)',
                         'rgba(255, 206, 86, 0.2)',
                         'rgba(75, 192, 192, 0.2)',
                         'rgba(153, 102, 255, 0.2)',
-                        'rgba(13,164,201,0.2)',
-                        'rgba(18,206,121,0.2)',
-                        'rgba(196,75,30,0.2)',
-                        'rgba(232,36,112,0.2)',
-                        'rgba(243,205,12,0.2)',
-                        'rgba(114,43,232,0.2)',
-                        'rgba(9,56,238,0.2)',
-                        'rgba(243,72,9,0.2)',
                         'rgba(255, 159, 64, 0.2)'
                     ],
                     borderColor: [
@@ -302,30 +300,21 @@
                         'rgba(255, 206, 86, 1)',
                         'rgba(75, 192, 192, 1)',
                         'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(153, 102, 255, 1)',
                         'rgba(255, 159, 64, 1)'
                     ],
                     borderWidth: 1
-                }],
-                options: {
-                    scales: {
-                        y: {
-                            beginAtZero: true
-                        }
-                    },
-                    responsive:true,
-                    maintainAspectRatio:true
-                }
-            });*/
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                responsive:true,
+                maintainAspectRatio:true
+            }
         });
-
 
 
 
