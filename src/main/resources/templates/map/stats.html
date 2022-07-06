@@ -78,6 +78,7 @@
         </div>
         <div class="col">
             <div class="DonutChartBox" style="position: relative;">
+                <p> Donación de vacunas por farmaceutica</p>
                 <canvas id="donutChart"></canvas>
             </div>
         </div>
@@ -326,25 +327,21 @@
         const proportionsChart = new Chart(donut, {
             type: 'doughnut',
             data: {
-                labels: ['Red', 'Blue', 'Yellow'],
+                labels: ['Sinovac', 'Pfizer', 'AstraZeneca','Moderna'],
                 datasets: [{
                     label: '# of Votes',
-                    data: [12, 19, 3],
+                    data: [1650000, 1700000, 3495080, 1500000],
                     backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)',
-                        'rgba(255, 206, 86, 0.2)',
-                        'rgba(75, 192, 192, 0.2)',
-                        'rgba(153, 102, 255, 0.2)',
-                        'rgba(255, 159, 64, 0.2)'
+                        '#6b5b95',
+                        '#86af49',
+                        '#87bdd8',
+                        'rgba(153, 102, 255, 0.2)'
                     ],
                     borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(255, 159, 64, 1)'
+                        '#6b5b95',
+                        '#86af49',
+                        '#87bdd8',
+                        'rgba(153, 102, 255, 0.2)'
                     ],
                     borderWidth: 1
                 }]
