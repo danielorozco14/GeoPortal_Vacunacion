@@ -40,6 +40,10 @@
             margin: 50px;
             vertical-align: middle;
         }
+        .DeadsGenderChartBox{
+            width: 400px;
+            margin: 20px;
+        }
 
     </style>
 </head>
@@ -105,6 +109,12 @@
             <div class="LineChartBox" style="position: relative;">
                 <p style="text-align:center">Municipios con alta tasa de casos</p>
                 <canvas id="linechart"></canvas>
+            </div>
+        </div>
+        <div class="col">
+            <div class="DeadsGenderChartBox" style="position: relative;">
+                <p style="text-align:center">Muertes por género</p>
+                <canvas id="deadgenderchart"></canvas>
             </div>
         </div>
     </div>
@@ -416,40 +426,65 @@
             }
         });
     </script>
-   <!--LINE CHART-->
-   <script>
-    const line = document.getElementById('linechart').getContext('2d');
-    const linealChart = new Chart(line, {
-        type: 'line',
+    <!--LINE CHART-->
+    <script>
+        const line = document.getElementById('linechart').getContext('2d');
+        const linealChart = new Chart(line, {
+            type: 'line',
+            data: {
+                labels: ['Nueva Trinidad', 'Comalapa ', 'San Francisco Morazán','San Antonio los Ranchos',
+                'Arcatao'],
+                datasets: [{
+                    label: 'Municipios con alta tasa de casos',
+                    data: [4606.4, 3407.0, 3245.8, 990.1, 929.4],
+                    backgroundColor: [
+                        'red',
+                        '#034f84',
+                        '#484f4f',
+                        '#ffcc5c'
+                    ],
+                    borderColor: [
+                        'red',
+                        '#034f84',
+                        '#484f4f',
+                        '#ffcc5c'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                responsive:true,
+                maintainAspectRatio:true
+            }
+        });
+</script>
+
+    <!--PIE CHART-->
+    <script>
+    const deadGenderChart = document.getElementById('deadgenderchart').getContext('2d');
+    const deadChartGender = new Chart(deadGenderChart, {
+        type: 'pie',
         data: {
-            labels: ['Nueva Trinidad', 'Comalapa ', 'San Francisco Morazán','San Antonio los Ranchos',
-            'Arcatao'],
+            labels: ['Masculino', 'Femenino'],
             datasets: [{
-                label: 'Municipios con alta tasa de casos',
-                data: [4606.4, 3407.0, 3245.8, 990.1, 929.4],
+                label: 'Géneros',
                 backgroundColor: [
-                    'red',
-                    '#034f84',
-                    '#484f4f',
-                    '#ffcc5c'
+                    "red",
+                    "orange"
                 ],
-                borderColor: [
-                    'red',
-                    '#034f84',
-                    '#484f4f',
-                    '#ffcc5c'
-                ],
-                borderWidth: 1
+                data: [2209, 1517]
             }]
         },
         options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            },
-            responsive:true,
-            maintainAspectRatio:true
+            title: {
+                display: true,
+                text: "World Wide Wine Production 2018"
+            }
         }
     });
 </script>
