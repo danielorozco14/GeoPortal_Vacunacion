@@ -24,10 +24,18 @@
         }
         .BarChartBox{
             width: 700px;
+            margin: 20px;
         }
         .DonutChartBox{
             width: 400px;
+            margin: 20px;
         }
+        .DosisChartBox{
+            width: 400px;
+            margin: 20px;
+            justify-content: center;
+        }
+
     </style>
 </head>
 <body>
@@ -78,11 +86,16 @@
         </div>
         <div class="col">
             <div class="DonutChartBox" style="position: relative;">
-                <p> Donación de vacunas por farmaceutica</p>
+                <p style="text-align:center"> Donación de vacunas por farmaceutica</p>
                 <canvas id="donutChart"></canvas>
             </div>
         </div>
-        <div class="col"></div>
+        <div class="col">
+            <div class="DosisChartBox" style="position: relative;">
+                <p style="text-align:center"> Aplicación de dosis a personas nacionales</p>
+                <canvas id="dosisChart"></canvas>
+            </div>
+        </div>
     </div>
 
 
@@ -357,7 +370,41 @@
             }
         });
     </script>
-
+    <script>
+        const dosis = document.getElementById('dosisChart').getContext('2d');
+        const dosisChart = new Chart(dosis, {
+            type: 'doughnut',
+            data: {
+                labels: ['Primera Dosis', 'Segunda Dosis', 'Tercera Dosis','Cuarta Dosis'],
+                datasets: [{
+                    label: 'Aplicación de dosis a personas nacionales',
+                    data: [4598833, 4305625, 1709961, 308372],
+                    backgroundColor: [
+                        '#86af49',
+                        '#e3eaa7',
+                        '#b5e7a0',
+                        '#d5e1df'
+                    ],
+                    borderColor: [
+                        '#86af49',
+                        '#e3eaa7',
+                        '#b5e7a0',
+                        '#d5e1df'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                responsive:true,
+                maintainAspectRatio:true
+            }
+        });
+    </script>
 
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
