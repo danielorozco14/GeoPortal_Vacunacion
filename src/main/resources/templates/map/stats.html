@@ -44,6 +44,10 @@
             width: 400px;
             margin: 20px;
         }
+        .DeadsGenderLine{
+            width: 400px;
+            margin: 20px;
+        }
 
     </style>
 </head>
@@ -115,6 +119,12 @@
             <div class="DeadsGenderChartBox" style="position: relative;">
                 <p style="text-align:center">Muertes por género</p>
                 <canvas id="deadgenderchart"></canvas>
+            </div>
+        </div>
+        <div class="col">
+            <div class="DeadsGenderLine" style="position: relative;">
+                <p style="text-align:center">Muertes por género en período 31 Marzo - 14 de Noviembre 2021</p>
+                <canvas id="deadgenderline"></canvas>
             </div>
         </div>
     </div>
@@ -488,7 +498,62 @@
         }
     });
 </script>
-
+    <!--MULTIPLELINES CHART-->
+    <script>
+        const deadGenderLine = document.getElementById('deadgenderline').getContext('2d');
+        var dataFirst = {
+            label: "0 a 9 años",
+            data: [6,0,0,6,0.5],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'red'
+        };
+        var dataSecond = {
+            label: "10 a 19 años",
+            data: [8,0,0,8,0.7],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'green'
+        };
+        var dataThird = {
+            label: "20 a 39 años",
+            data: [247,24,1,271,11.4],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'orange'
+        };
+        var dataFourth = {
+            label: "40 a 59 años",
+            data: [876,100,7.4,976,72.4],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'blue'
+        };
+        var dataFifth = {
+            label: "60 a 79 años",
+            data: [1543,184,27.7,1727,260.4],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'brown'
+        };
+        var dataSixth = {
+            label: "80 años a más",
+            data: [638,96,67.8,734,518.4],
+            lineTension: 0,
+            fill: false,
+            borderColor: 'red'
+        };
+        const deadLineGender = new Chart(deadGenderLine, {
+            type: 'line',
+            data: {
+                labels: [10,20,30,40,50],
+                datasets: [dataFirst,dataSecond,dataThird,dataFourth,dataFifth,dataSixth]
+            },
+            options: {
+                legend: {display: false}
+            }
+        });
+</script>
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 </body>
